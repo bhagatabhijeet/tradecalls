@@ -1,0 +1,30 @@
+{
+  "name": "tradecalls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagatabhijeet/tradecalls.git"
+  },
+  "keywords": [
+    "Trade-Calls",
+    "Trading",
+    "Forex",
+    "Stocks"
+  ],
+  "author": "Abhijeet Bhagat and Amol Peshwe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhagatabhijeet/tradecalls/issues"
+  },
+  "homepage": "https://github.com/bhagatabhijeet/tradecalls#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0"
+  }
+}
