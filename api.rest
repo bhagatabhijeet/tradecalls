@@ -1,0 +1,12 @@
+# GET https://yahoo-finance-low-latency.p.rapidapi.com/ws/insights/v1/finance/insights HTTP/1.1
+# ?symbol='AAPL'
+# content-type: application/json
+# x-rapidapi-key: '58b1a6b911msh8d6a4bf24d013e8p172b22jsn5450aa41aa26'
+# x-rapidapi-host: 'yahoo-finance-low-latency.p.rapidapi.com'
+
+
+# GET https://example.com/comments
+#     ?page=2
+#     &pageSize=10
+
+GET http://autoreport.athocdevo.com/api/runs
